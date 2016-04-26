@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[perceptron]]></title>
-        <description><![CDATA[perceptron]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The World of Perceptron]]></title>
+        <description><![CDATA[The World of Perceptron]]></description>
+        <link>https://thegrid.ai/perceptron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 18:18:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 18:29:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perceptron/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/062ce61a-cb5a-470e-99f9-1260843a6939.jpg">]]></description>
-            <link>undefined732eee40-6c1c-4aa0-80d9-3830ec3a5f10/index.html</link>
+            <link>https://thegrid.ai/perceptron/732eee40-6c1c-4aa0-80d9-3830ec3a5f10/index.html</link>
             <guid isPermaLink="false">732eee40-6c1c-4aa0-80d9-3830ec3a5f10</guid>
-            <pubDate>Tue, 26 Apr 2016 18:17:24 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 18:28:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
