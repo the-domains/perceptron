@@ -2,6 +2,7 @@ name: perceptron
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.19916
+title: The World of Perceptron
 cta:
   domain: null
   bucket: null
