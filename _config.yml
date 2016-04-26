@@ -1,0 +1,28 @@
+name: perceptron
+favicon: null
+layout_spectrum: 0.010771091794595122
+typography_spectrum: 0.16303503094241023
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3419506405480206
+  lightness: 0.3936707037501037
+  saturation: 0.8109017766546458
+  rhythmicContrast: 0.5961182471364737
+purpose: []
